@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#even-number-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#even-number-four {
+    background-color: #90ee90;
+    font-weight: bold;
+}
